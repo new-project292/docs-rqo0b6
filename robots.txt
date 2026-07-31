@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-mohm1q.privatetalks.online/sitemap.xml
